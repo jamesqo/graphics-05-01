@@ -7,7 +7,7 @@ import math
 
 view = [0,
         0,
-        1];
+        1]
 ambient = [50,
            50,
            50]
