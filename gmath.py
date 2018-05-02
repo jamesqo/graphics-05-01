@@ -35,8 +35,9 @@ def calculate_specular(light, sreflect, view, normal):
     normal = normalize(normal)
     view = normalize(view)
 
-    T = dot_product(normal, light[LOCATION]) * normal
-    R = 2 * T - light[LOCATION] 
+    norm_T = dot_product(normal, light[LOCATION])
+    T = [norm_T * t for t in normal]
+    R = [2 * t - loc for t, loc in zip(T, light[LOCATION])]
 
     x = 16
     cos_alpha = max(0, dot_product(R, view))
@@ -49,7 +50,7 @@ def limit_color(color):
 #vector functions
 def normalize(vector):
     norm = math.sqrt(sum([v**2 for v in vector]))
-    return [v / norm for v in vector]
+    return [float(v) / norm for v in vector]
 
 def dot_product(a, b):
     assert len(a) == len(b)
