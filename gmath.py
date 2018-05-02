@@ -11,25 +11,25 @@ SPECULAR_EXP = 4
 # lighting functions
 # areflect, dreflect, sreflect hold constants of ambient/diffuse/specular reflection?
 def get_lighting(normal, view, ambient, light, areflect, dreflect, sreflect ):
-    P = light[COLOR]
     normal = normalize(normal)
     light[LOCATION] = normalize(light[LOCATION])
     view = normalize(view)
     
-    cos_theta = dot_product(normal, light[LOCATION])
-    diffuse = [x * y * cos_theta for x, y in zip(P, dreflect)]
+    amb = calculate_ambient(alight=ambient, areflect=areflect)
+    diffuse = calculate_diffuse(light, dreflect, normal)
+    specular = calculate_specular(light, sreflect, view, normal)
 
-    cos_alpha = 
+    return limit_color(amb + diffuse + specular)
 
 def calculate_ambient(alight, areflect):
-    return dot_product(alight, areflect)
+    return limit_color([x * y for x, y in zip(alight, areflect)])
 
 def calculate_diffuse(light, dreflect, normal):
     normal = normalize(normal)
     light[LOCATION] = normalize(light[LOCATION])
     
     cos_theta = max(0, dot_product(normal, light[LOCATION]))
-    return [x * y * cos_theta for x, y in zip(light[COLOR], dreflect)]
+    return limit_color([x * y * cos_theta for x, y in zip(light[COLOR], dreflect)])
 
 def calculate_specular(light, sreflect, view, normal):
     normal = normalize(normal)
@@ -41,9 +41,10 @@ def calculate_specular(light, sreflect, view, normal):
     x = 16
     cos_alpha = max(0, dot_product(R, view))
     cos_alpha_x = cos_alpha ** x
+    return limit_color([x * y * cos_alpha_x for x, y in zip(light[COLOR], sreflect)])
 
 def limit_color(color):
-    pass
+    return [max(0, min(255, val)) for val in color]
 
 #vector functions
 def normalize(vector):
