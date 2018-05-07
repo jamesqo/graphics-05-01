@@ -19,7 +19,7 @@ def get_lighting(normal, view, ambient, light, areflect, dreflect, sreflect ):
     diffuse = calculate_diffuse(light, dreflect, normal)
     specular = calculate_specular(light, sreflect, view, normal)
 
-    return limit_color(amb + diffuse + specular)
+    return limit_color([a + d + s for a, d, s in zip(amb, diffuse, specular)])
 
 def calculate_ambient(alight, areflect):
     return limit_color([x * y for x, y in zip(alight, areflect)])
@@ -45,7 +45,8 @@ def calculate_specular(light, sreflect, view, normal):
     return limit_color([x * y * cos_alpha_x for x, y in zip(light[COLOR], sreflect)])
 
 def limit_color(color):
-    return [max(0, min(255, val)) for val in color]
+    # NB: The int() is needed to keep it from spazzing out bigtime
+    return [int(max(0, min(255, val))) for val in color]
 
 #vector functions
 def normalize(vector):
