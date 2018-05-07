@@ -62,6 +62,2886 @@ move
 100 -125 0
 box
 -50 0 40 50 120 80
+push
+rotate
+z 0
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 1
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 2
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 3
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 4
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 5
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 6
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 7
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 8
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 9
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 10
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 11
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 12
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 13
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 14
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 15
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 16
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 17
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 18
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 19
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 20
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 21
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 22
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 23
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 24
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 25
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 26
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 27
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 28
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 29
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 30
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 31
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 32
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 33
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 34
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 35
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 36
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 37
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 38
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 39
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 40
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 41
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 42
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 43
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 44
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 45
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 46
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 47
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 48
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 49
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 50
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 51
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 52
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 53
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 54
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 55
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 56
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 57
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 58
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 59
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 60
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 61
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 62
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 63
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 64
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 65
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 66
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 67
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 68
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 69
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 70
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 71
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 72
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 73
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 74
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 75
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 76
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 77
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 78
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 79
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 80
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 81
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 82
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 83
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 84
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 85
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 86
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 87
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 88
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 89
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 90
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 91
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 92
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 93
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 94
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 95
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 96
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 97
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 98
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 99
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 100
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 101
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 102
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 103
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 104
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 105
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 106
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 107
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 108
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 109
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 110
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 111
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 112
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 113
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 114
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 115
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 116
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 117
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 118
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 119
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 120
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 121
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 122
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 123
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 124
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 125
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 126
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 127
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 128
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 129
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 130
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 131
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 132
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 133
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 134
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 135
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 136
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 137
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 138
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 139
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 140
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 141
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 142
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 143
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 144
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 145
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 146
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 147
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 148
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 149
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 150
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 151
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 152
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 153
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 154
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 155
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 156
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 157
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 158
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 159
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 160
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 161
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 162
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 163
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 164
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 165
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 166
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 167
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 168
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 169
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 170
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 171
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 172
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 173
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 174
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 175
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 176
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 177
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 178
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 179
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 180
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 181
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 182
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 183
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 184
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 185
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 186
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 187
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 188
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 189
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 190
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 191
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 192
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 193
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 194
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 195
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 196
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 197
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 198
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 199
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 200
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 201
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 202
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 203
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 204
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 205
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 206
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 207
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 208
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 209
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 210
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 211
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 212
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 213
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 214
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 215
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 216
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 217
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 218
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 219
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 220
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 221
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 222
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 223
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 224
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 225
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 226
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 227
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 228
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 229
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 230
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 231
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 232
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 233
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 234
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 235
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 236
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 237
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 238
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 239
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 240
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 241
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 242
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 243
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 244
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 245
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 246
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 247
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 248
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 249
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 250
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 251
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 252
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 253
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 254
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 255
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 256
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 257
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 258
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 259
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 260
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 261
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 262
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 263
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 264
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 265
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 266
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 267
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 268
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 269
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 270
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 271
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 272
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 273
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 274
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 275
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 276
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 277
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 278
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 279
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 280
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 281
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 282
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 283
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 284
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 285
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 286
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 287
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 288
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 289
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 290
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 291
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 292
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 293
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 294
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 295
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 296
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 297
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 298
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 299
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 300
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 301
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 302
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 303
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 304
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 305
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 306
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 307
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 308
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 309
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 310
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 311
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 312
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 313
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 314
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 315
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 316
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 317
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 318
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 319
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 320
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 321
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 322
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 323
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 324
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 325
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 326
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 327
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 328
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 329
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 330
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 331
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 332
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 333
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 334
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 335
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 336
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 337
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 338
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 339
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 340
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 341
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 342
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 343
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 344
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 345
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 346
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 347
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 348
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 349
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 350
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 351
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 352
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 353
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 354
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 355
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 356
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 357
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 358
+move
+100 100 100
+sphere
+0 0 0 25
+pop
+push
+rotate
+z 359
+move
+100 100 100
+sphere
+0 0 0 25
+pop
 display
 save
 robot.png
